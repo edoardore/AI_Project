@@ -49,9 +49,15 @@ math
 ```
 Attenzione: solitamente sugli IDE più comuni sono quasi tutte presenti tranne per [graphviz](https://graphviz.gitlab.io/download/).
 
+## Riferimenti
+Tutti i datasets forniti in questo progetto sono stati presi da [UCI](https://archive.ics.uci.edu/ml/index.php) Machine Learning.
+L'implementazione di `DecisionTreeLearning.py` è stata ripresa e riadattata dalla seguente [reposirtory](https://github.com/aimacode/aima-python/blob/master/learning.py) pubblica, anche facendo riferimento a Russell & Norvig 18.3.
+
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 Please make sure to update tests as appropriate.
+
 
 ## License
 [Edoardo Re](https://github.com/edoardore), 2019
